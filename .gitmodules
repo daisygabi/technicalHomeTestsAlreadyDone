@@ -16,3 +16,6 @@
 [submodule "ReactJsThemes"]
 	path = ReactJsThemes
 	url = https://github.com/daisygabi/reactjsonepagethemes.git
+[submodule "TodoWithStimulusJs"]
+	path = TodoWithStimulusJs
+	url = https://github.com/daisygabi/TodoWithStimulusJs.git
