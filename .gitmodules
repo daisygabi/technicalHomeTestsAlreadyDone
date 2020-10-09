@@ -13,3 +13,6 @@
 [submodule "TwillioBuyLocalFoodBackend-Hackathon"]
 	path = TwillioBuyLocalFoodBackend-Hackathon
 	url = https://github.com/daisygabi/BuyLocalServerSide.git
+[submodule "ReactJsThemes"]
+	path = ReactJsThemes
+	url = https://github.com/daisygabi/reactjsonepagethemes.git
