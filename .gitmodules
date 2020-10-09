@@ -7,3 +7,9 @@
 [submodule "AndroidBasicConverters"]
 	path = AndroidBasicConverters
 	url = https://github.com/daisygabi/basiconverters
+[submodule "TwillioBuyLocalFoodFrontend-Hackathon"]
+	path = TwillioBuyLocalFoodFrontend-Hackathon
+	url = https://github.com/daisygabi/BuyLocalFrontend.git
+[submodule "TwillioBuyLocalFoodBackend-Hackathon"]
+	path = TwillioBuyLocalFoodBackend-Hackathon
+	url = https://github.com/daisygabi/BuyLocalServerSide.git
