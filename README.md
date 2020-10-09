@@ -1,6 +1,15 @@
 # Technical HomeTests Already Done
 This sole purpose of this repo is to bundle together all the home tests that I have implemented in the last few months so that if you are looking for help in your team we can jump straight to that decent conversation between developers and skip the part where I work for free.
 
+# Do you want to send me some small financial support for this list?
+First of all: **THANK YOU!** Anything helps. You can find me on several platforms. Choose what suits you best:
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E121J2O)
+
+<a href="https://www.buymeacoffee.com/woly" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<a href="https://www.paypal.com/paypalme/GabiDev">PayPal</a>
+
 ## Do you need help with your project and on the lookout for a new software developer?
 Great! Hello visitor :) My name is Gabi and I am a professional Software Developer since 2008. I work only remotely now and I am constantly investing time and work in my own professional advancement. This will benefit me and you as a potential collaboration. I work with decent and compasionate people and help them create that product they are really passionate about.
 
