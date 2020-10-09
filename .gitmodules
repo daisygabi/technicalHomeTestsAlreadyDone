@@ -1,0 +1,9 @@
+[submodule "greatIdeasFrontend"]
+	path = greatIdeasFrontend
+	url = https://github.com/daisygabi/greatideasfrontend
+[submodule "greatIdeasBackend"]
+	path = greatIdeasBackend
+	url = https://github.com/daisygabi/greatideasbackend
+[submodule "AndroidBasicConverters"]
+	path = AndroidBasicConverters
+	url = https://github.com/daisygabi/basiconverters
